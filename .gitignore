@@ -1,0 +1,8 @@
+# Air temp files
+tmp
+
+# Go
+go.sum
+
+.env
+.env.*
